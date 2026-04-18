@@ -4,6 +4,4 @@
 -- https://discord.gg/smEjXefWut
 -- https://discord.gg/smEjXefWut
 
-getgenv().SCRIPT_KEY = "KEYLESS"
-
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/6f4cd650287ba4ba5fdb447375b0b986e31249fca70cefccbe27887155ed2e71/download"))()
